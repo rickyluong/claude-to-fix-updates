@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "claude-to-fix@rickyluong": {
+      "updates": [
+        {
+          "version": "1.4.1",
+          "update_link": "https://raw.githubusercontent.com/rickyluong/claude-to-fix-updates/main/firefox/claude-to-fix-1.4.1.xpi",
+          "update_hash": "sha256:7c0194e61f525c446e820c6fccae90c19cc29c70ce45f13b68df11b463f1fa8f"
+        }
+      ]
+    }
+  }
+}
