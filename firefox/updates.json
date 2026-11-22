@@ -3,9 +3,9 @@
     "claude-to-fix@rickyluong": {
       "updates": [
         {
-          "version": "1.4.2",
-          "update_link": "https://raw.githubusercontent.com/rickyluong/claude-to-fix-updates/main/firefox/claude-to-fix-1.4.2.xpi",
-          "update_hash": "sha256:58dc6598765e189f0177dee8ae94ff94e80eb2b8f401c7f7bf227a79eeb2ee19"
+          "version": "1.4.3",
+          "update_link": "https://raw.githubusercontent.com/rickyluong/claude-to-fix-updates/main/firefox/claude-to-fix-1.4.3.xpi",
+          "update_hash": "sha256:403b65616a03298439e583683f6674bcefbfae7151c0d783e83aecc9e569839b"
         }
       ]
     }
